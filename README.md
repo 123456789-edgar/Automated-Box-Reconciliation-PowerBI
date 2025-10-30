@@ -8,7 +8,7 @@ The system provides real-time variance analysis, trend monitoring, and integrity
 ## 🎯 Project Overview
 
 Reconciliation between SAP and local operational records often involves manual checks that are time-consuming and error-prone.  
-This Power BI solution bridges the two systems, **automating data comparison and variance tracking** through linked data models and Power Query transformations.
+This Power BI and Power Automate solution bridges the two systems, **automating data comparison and variance tracking** through linked data models and Power Query transformations.
 
 The **core objective** is to ensure data integrity by comparing:
 - `BoxType_Clean` (from local Excel transformations)
